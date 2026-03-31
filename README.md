@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Mehmet Mustafa! 👋
 
-<!--
-**Mehmet6300/Mehmet6300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Electrical & Hardware Designer** specializing in autonomous systems, power architectures, and hardware integration. I am passionate about bridging the gap between physical infrastructure and software intelligence.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **Electronic Design & Power Systems Lead** for our Autonomous Underwater Vehicle (AUV) team preparing for Teknofest.
+* Designing and implementing robust power distribution systems for high-load components (e.g., 16.000 mAh batteries, ELO contactors).
+* Integrating microcontrollers, AI processing units (Jetson Orin Nano, Pixhawk 4), and various sensors (Hydrophones) into cohesive hardware architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Hardware & Tech Stack
+* Power Electronics & Battery Management
+* Sensor Integration & Signal Routing
+* System Wiring & Architecture Design
+
+📫 **Reach me at:** [mehmetmustafagrl@gmail.com](mailto:mehmetmustafagrl@gmail.com)
