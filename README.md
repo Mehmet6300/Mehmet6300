@@ -12,4 +12,5 @@ I am an **Electrical & Hardware Designer** specializing in autonomous systems, p
 * Sensor Integration & Signal Routing
 * System Wiring & Architecture Design
 * PSpice, KiCAD, Multisim, OrCAD, MATLAB(Simulink), Proteus, Autocad
+
 📫 **Reach me at:** [mehmetmustafagrl@gmail.com](mailto:mehmetmustafagrl@gmail.com)
